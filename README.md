@@ -3,6 +3,7 @@
 
 Azhar Mithani's online Clothing Store that can buy clothes through online services. This program was developed by using PHP, HTML, MySQLi and Javascript. The system is basically easy to understand, the customer should create an account first to order some clothes. Then the user choose their preferable clothe and add them to shopping cart in order to check out the product
 
+![alt text](https://github.com/AzharMithani/Online-Clothing-Store/blob/master/online-clothing-store_0.png)
 
 The admin has an important role here: he manages all the daily transactions, adding of new clothes, setting up various product offers, and monitoring customers using a content management system or CMS.
 
